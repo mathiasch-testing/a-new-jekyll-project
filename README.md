@@ -1,6 +1,6 @@
 # Jekyll + netlify CMS
 
-This is the basic Jekyll starter site, with netlify CMS integrated.
+This is the basic Jekyll starter site, with netlify CMS integrated (old deprecated repo)
 
 ## Getting Started
 
